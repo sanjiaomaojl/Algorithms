@@ -1,6 +1,6 @@
 # Algorithms
-liyubobobo老师的玩转算法的课堂笔记
-学的比较慢   慢慢来
+## liyubobobo老师的玩转算法的课堂笔记
+学的比较慢 &nbsp;&nbsp;慢慢来
 
 
 | 算法内容 | 链接 |
