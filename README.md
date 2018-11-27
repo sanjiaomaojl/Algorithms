@@ -1,5 +1,8 @@
 # Algorithms
 ## liuyubobobo老师的玩转算法的课堂笔记&nbsp;&nbsp;&nbsp;是不是非常的酷，是:)
+
+[原文地址](https://github.com/liuyubobobo/Play-with-Algorithms)
+
 学的比较慢 &nbsp;&nbsp;慢慢来
 
 
